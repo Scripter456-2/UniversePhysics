@@ -1,1 +1,10 @@
-
+[
+  {
+    "version": "0.0.1",
+    "date": "2026-05-11",
+    "title": "Test",
+    "notes": [
+      "A testing update to test game's update pop up's",
+    ]
+  }
+]
